@@ -1,5 +1,5 @@
 *.lnk
-
-# ignore bak files
-*.bak.xml
-
+*.log
+*.bak
+work/Shared/*
+tmp/*
