@@ -1,2 +1,5 @@
 OBJECT VVNB.btg
-OBJECT_SHARED Models/Airport/beacon.xml 105.805209 21.223196 13.3 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 105.789319 21.222963 12.8 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 105.795207 21.223315 13.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 105.819435 21.216316 13.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 105.805391 21.213474 14.0 0.00
