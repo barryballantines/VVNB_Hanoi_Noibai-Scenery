@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<PropertyList>
+  <tower>
+    <twr>
+      <lon>105.805161</lon>
+      <lat>21.213355</lat>
+      <elev-m>25.00</elev-m>
+    </twr>
+  </tower>
+</PropertyList>

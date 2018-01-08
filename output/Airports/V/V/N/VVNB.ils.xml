@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<PropertyList>
+  <!-- RWY 11L/29R -->
+  <runway>
+    <ils>
+      <lon>105.82579634</lon>
+      <lat>21.21558777</lat>
+      <rwy>11L</rwy>
+      <hdg-deg>107.41</hdg-deg>
+      <elev-m>12.93</elev-m>
+      <nav-id>NB</nav-id>
+    </ils>
+  </runway>
+  <!-- RWY 11R/29L -->
+  <runway>
+    <ils>
+      <lon>105.82442863</lon>
+      <lat>21.21362588</lat>
+      <rwy>11R</rwy>
+      <hdg-deg>107.32</hdg-deg>
+      <elev-m>12.82</elev-m>
+      <nav-id>NBA</nav-id>
+    </ils>
+  </runway>
+</PropertyList>
