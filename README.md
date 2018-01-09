@@ -58,6 +58,14 @@ The result is located in the folder ```output/Terrain```.
 
 For testing the scenery I use the directory ```output``` as custom scenery folder for FlightGear.
 
+## Finally: apt.dat.gz and nav.dat.gz
+
+Unfortunately not every airport data can be stored within the Scenery folder of FlightGear.
+Data like ILS frequencies, GS headings and slopes, etc. are taken from the big monolithic data files
+```apt.dat.gz``` and ```nav.dat.gz```. 
+
+In order to use the ILS of the new airport you need to patch these data files manually. The necessary entries
+are located in the directory ```data/fgdata```.
 
 
 ## Tools
