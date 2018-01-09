@@ -1,8 +1,19 @@
 <?xml version="1.0"?>
 <groundnet>
-
   <version>1</version>
   <parkingList>
-        <Parking index="0" type="gate" name="Custom_Startup_Location" lat="N21 12.918240" lon="E105 48.478320" heading="0"  radius="44" airlineCodes="" />
- </parkingList>
+    <Parking index="0"  type="gate" name="Domestic Gate 1"   lat="N21 12.94893" lon="E105 48.15093" heading="196"  radius="44" airlineCodes="" />
+    <Parking index="1"  type="gate" name="Domestic Gate 2"   lat="N21 12.94308" lon="E105 48.19627" heading="196"  radius="44" airlineCodes="" />
+    <Parking index="2"  type="gate" name="Domestic Gate 4"   lat="N21 12.95977" lon="E105 48.24367" heading="227"  radius="44" airlineCodes="" />
+    <Parking index="3"  type="gate" name="Domestic Gate 5"   lat="N21 12.95948" lon="E105 48.30155" heading="242"  radius="44" airlineCodes="" />
+    <Parking index="4"  type="gate" name="Domestic Gate 6"   lat="N21 12.92950" lon="E105 48.31357" heading="259"  radius="44" airlineCodes="" />
+    <Parking index="5"  type="gate" name="Domestic Gate 7"   lat="N21 12.89582" lon="E105 48.31313" heading="288"  radius="44" airlineCodes="" />
+    <Parking index="6"  type="gate" name="Domestic Gate 9"   lat="N21 12.85528" lon="E105 48.29460" heading="288"  radius="44" airlineCodes="" />    
+    <Parking index="7"  type="gate" name="Domestic Apron 19" lat="N21 12.83965" lon="E105 48.38108" heading="288"  radius="44" airlineCodes="" />
+    <Parking index="8"  type="gate" name="Domestic Apron 20" lat="N21 12.88397" lon="E105 48.39492" heading="288"  radius="44" airlineCodes="" />
+    <Parking index="9"  type="gate" name="Domestic Apron 21" lat="N21 12.92512" lon="E105 48.40855" heading="288"  radius="44" airlineCodes="" />
+    <Parking index="10" type="gate" name="Domestic Apron 22" lat="N21 13.02413" lon="E105 48.09532" heading="107"  radius="44" airlineCodes="" />
+    <Parking index="11" type="gate" name="Domestic Apron 23" lat="N21 12.99477" lon="E105 48.08667" heading="107"  radius="44" airlineCodes="" />
+    <Parking index="12" type="gate" name="Domestic Apron 24" lat="N21 12.96295" lon="E105 48.07715" heading="107"  radius="44" airlineCodes="" />
+  </parkingList>
 </groundnet>
