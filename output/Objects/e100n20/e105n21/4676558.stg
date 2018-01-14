@@ -25,3 +25,6 @@ OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 105.79541375 21.227
 OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 105.79759174 21.22668274 13.2984 343.0 0.0 -0.0
 OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 105.79742314 21.22673221 13.2987 343.0 0.0 -0.0
 OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 105.79482598 21.22748405 13.2871 342.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/maintainance-hangar.ac 105.81186527 21.21193537 13.7994 253.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/atc-tower-100m.ac 105.80524507 21.21355453 -12.6421 20.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/beacon_roof.xml   105.80524507 21.21355453 87.3695 359.1 0.0 -0.0
