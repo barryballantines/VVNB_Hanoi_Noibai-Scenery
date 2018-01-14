@@ -8,5 +8,11 @@ Airport by day, from west.
 
 Airport by night, from west.
 
+![Military hangars][vvnb-mil-hangars]
+
+
+
+
 [vvnb-west-day]:   ./vvnb-west-day.png
 [vvnb-west-night]: ./vvnb-west-night.png
+[vvnb-mil-hangars]: ./vvnb-mil-hangars.png
