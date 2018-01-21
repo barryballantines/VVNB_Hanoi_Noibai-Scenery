@@ -15,15 +15,10 @@ Military hangars.
 
 ![Domestic Terminal T1][vvnb-domestic-terminal]
 
-The first version of the domestic terminal building.
-
-![Domestic Terminal T1 with textures][vvnb-domestic-terminal-with-textures]
-
-Texturing is still an issue... (somebody should dimm the light)
+The domestic terminal building. See the tower and the maintainance hangar in the background.
 
 
 [vvnb-west-day]:   ./vvnb-west-day.png
 [vvnb-west-night]: ./vvnb-west-night.png
 [vvnb-mil-hangars]: ./vvnb-mil-hangars.png
 [vvnb-domestic-terminal]: ./vvnb-domestic-terminal.png
-[vvnb-domestic-terminal-with-textures]: ./Domestic-Terminal-with-textures.png
