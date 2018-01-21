@@ -1,3 +1,4 @@
+
 # Airport Pictures
 
 ![Airport from West by day][vvnb-west-day]
@@ -16,9 +17,13 @@ Military hangars.
 
 The first version of the domestic terminal building.
 
+![Domestic Terminal T1 with textures][vvnb-domestic-terminal-with-textures]
+
+Texturing is still an issue... (somebody should dimm the light)
 
 
 [vvnb-west-day]:   ./vvnb-west-day.png
 [vvnb-west-night]: ./vvnb-west-night.png
 [vvnb-mil-hangars]: ./vvnb-mil-hangars.png
 [vvnb-domestic-terminal]: ./vvnb-domestic-terminal.png
+[vvnb-domestic-terminal-with-textures]: ./Domestic-Terminal-with-textures.png
