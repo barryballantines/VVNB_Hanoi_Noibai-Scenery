@@ -20,7 +20,7 @@ The domestic terminal building. See the tower and the maintainance hangar in the
 ![International Terminal T2][vvnb-intl-terminal]
 
 The International Terminal (T2). Currently in its first construction phase. 
-Textures and entrance building are still on the todo-list.
+Entrance building are still on the todo-list.
 
 
 [vvnb-west-day]:   ./vvnb-west-day.png
