@@ -22,9 +22,14 @@ The domestic terminal building. See the tower and the maintainance hangar in the
 The International Terminal (T2). Currently in its first construction phase. 
 Entrance building are still on the todo-list.
 
+![International Terminal Details][vvnb-intl-terminal-signs]
+
+Some details.
+
 
 [vvnb-west-day]:   ./vvnb-west-day.png
 [vvnb-west-night]: ./vvnb-west-night.png
 [vvnb-mil-hangars]: ./vvnb-mil-hangars.png
 [vvnb-domestic-terminal]: ./vvnb-domestic-terminal.png
 [vvnb-intl-terminal]: ./vvnb-international-terminal.png
+[vvnb-intl-terminal-signs]: ./vvnb-international-terminal-signs.png
