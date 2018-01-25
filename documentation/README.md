@@ -26,6 +26,9 @@ Entrance building are still on the todo-list.
 
 Some details.
 
+![International Terminal Check-In][[vvnb-intl-checkin]
+
+The check-in building of the International Terminal.
 
 [vvnb-west-day]:   ./vvnb-west-day.png
 [vvnb-west-night]: ./vvnb-west-night.png
@@ -33,3 +36,4 @@ Some details.
 [vvnb-domestic-terminal]: ./vvnb-domestic-terminal.png
 [vvnb-intl-terminal]: ./vvnb-international-terminal.png
 [vvnb-intl-terminal-signs]: ./vvnb-international-terminal-signs.png
+[vvnb-intl-checkin]: ./vvnb-international-checkin-building.png
