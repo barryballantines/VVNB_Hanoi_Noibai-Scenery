@@ -30,6 +30,13 @@ Some details.
 
 The check-in building of the International Terminal.
 
+
+![International Terminal Entrance][vvnb-intl-entrance]
+
+The entrance of the International Terminal building.
+
+
+
 [vvnb-west-day]:   ./vvnb-west-day.png
 [vvnb-west-night]: ./vvnb-west-night.png
 [vvnb-mil-hangars]: ./vvnb-mil-hangars.png
@@ -37,3 +44,4 @@ The check-in building of the International Terminal.
 [vvnb-intl-terminal]: ./vvnb-international-terminal.png
 [vvnb-intl-terminal-signs]: ./vvnb-international-terminal-signs.png
 [vvnb-intl-checkin]: ./vvnb-international-checkin-building.png
+[vvnb-intl-entrance]: ./vvnb-international-terminal-entrance.png
