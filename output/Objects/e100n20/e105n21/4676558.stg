@@ -43,3 +43,17 @@ OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 105.80484559 21.21504679 13.
 OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 105.80448191 21.21439292 13.7677 304.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/VVNB-Domestic-terminal.ac 105.80367907 21.21458057 10.2231 314.7 0.0 -0.0
 OBJECT_SHARED Models/Airport/VVNB-International-Terminal.ac 105.79249297 21.21864810 12.5821 73.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.79712960 21.21754700 12.8896 163.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.79644919 21.21774310 12.8235 160.9 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.79577609 21.21793561 12.7631 160.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.79511722 21.21812533 12.7079 163.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.79424766 21.21837363 12.6542 162.7 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.79357450 21.21856587 12.6301 161.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.79292055 21.21875387 12.5734 164.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.79225432 21.21894242 12.5222 161.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.79159391 21.21913533 12.5113 162.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.79093123 21.21932424 12.4535 163.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.79003552 21.21958079 12.4340 168.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.78938150 21.21976914 12.4285 162.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.78872816 21.21995275 12.4003 164.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 105.78805931 21.22014853 12.3674 163.2 0.0 -0.0
