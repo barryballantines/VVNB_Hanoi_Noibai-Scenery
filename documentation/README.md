@@ -39,6 +39,11 @@ The entrance of the International Terminal building.
 
 Passenger boarding bridges of the International Terminal.
 
+![International Terminal Jetways][vvnb-intl-jetways]
+
+An Airbus 320 parking at the International Terminal.
+
+
 
 [vvnb-west-day]:   ./vvnb-west-day.png
 [vvnb-west-night]: ./vvnb-west-night.png
@@ -49,3 +54,4 @@ Passenger boarding bridges of the International Terminal.
 [vvnb-intl-checkin]: ./vvnb-international-checkin-building.png
 [vvnb-intl-entrance]: ./vvnb-international-terminal-entrance.png
 [vvnb-intl-bridges]: ./vvnb-international-terminal-bridges.png
+[vvnb-intl-jetways]: ./vvnb-international-terminal-jetways-a320.png
