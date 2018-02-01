@@ -2,7 +2,7 @@
 
 The following parking positions have been added to the airport.
 
-## Domestic Terminal 
+## Domestic Terminal (T1)
 
     Name                Latitude        Longitude        Hdg
     ------------------+---------------+----------------+-----
@@ -20,4 +20,24 @@ The following parking positions have been added to the airport.
     Western Apron 23    N21° 12.99477   E105° 48.08667   107°  
     Western Apron 24    N21° 12.96295   E105° 48.07715   107°
 
- 
+## International Terminal (T2)
+
+    Name                Latitude        Longitude        Hdg
+    ------------------+---------------+----------------+-----
+    Gate 36             N21° 13.21748   E105° 47.28023   198°
+    Gate 35             N21° 13.20707   E105° 47.31688   198°
+    Gate 34             N21° 13.19710   E105° 47.35670   198°
+    Gate 33             N21° 13.18478   E105° 47.39777   198°
+    Gate 32             N21° 13.16952   E105° 47.44923   198°
+    Gate 31             N21° 13.15763   E105° 47.49155   198°
+    Gate 30             N21° 13.14575   E105° 47.53232   198°
+    Gate 29             N21° 13.13835   E105° 47.57495   198°
+    Gate 28             N21° 13.12617   E105° 47.61242   198°
+    Gate 24             N21° 13.11385   E105° 47.65150   198°
+    Gate 23             N21° 13.09923   E105° 47.70287   198°
+    Gate 22             N21° 13.08673   E105° 47.74535   198°
+    Gate 21             N21° 13.07238   E105° 47.78337   198°
+    Gate 20             N21° 13.06000   E105° 47.82265   198°
+    
+    
+    
