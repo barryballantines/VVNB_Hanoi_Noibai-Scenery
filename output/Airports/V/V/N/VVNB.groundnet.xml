@@ -15,19 +15,20 @@
     <Parking index="10" type="gate" name="Domestic Apron 22" lat="N21 13.02413" lon="E105 48.09532" heading="107"  radius="44" airlineCodes="" />
     <Parking index="11" type="gate" name="Domestic Apron 23" lat="N21 12.99477" lon="E105 48.08667" heading="107"  radius="44" airlineCodes="" />
     <Parking index="12" type="gate" name="Domestic Apron 24" lat="N21 12.96295" lon="E105 48.07715" heading="107"  radius="44" airlineCodes="" />  
-    <Parking index="13" type="gate" name="International Gate 36" lat="N21 13.21748" lon="E105 47.28023" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="14" type="gate" name="International Gate 35" lat="N21 13.20707" lon="E105 47.31688" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="15" type="gate" name="International Gate 34" lat="N21 13.19710" lon="E105 47.35670" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="16" type="gate" name="International Gate 33" lat="N21 13.18478" lon="E105 47.39777" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="17" type="gate" name="International Gate 32" lat="N21 13.16952" lon="E105 47.44923" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="18" type="gate" name="International Gate 31" lat="N21 13.15763" lon="E105 47.49155" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="19" type="gate" name="International Gate 30" lat="N21 13.14575" lon="E105 47.53232" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="20" type="gate" name="International Gate 29" lat="N21 13.13835" lon="E105 47.57495" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="21" type="gate" name="International Gate 28" lat="N21 13.12617" lon="E105 47.61242" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="22" type="gate" name="International Gate 24" lat="N21 13.11385" lon="E105 47.65150" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="23" type="gate" name="International Gate 23" lat="N21 13.09923" lon="E105 47.70287" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="24" type="gate" name="International Gate 22" lat="N21 13.08673" lon="E105 47.74535" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="25" type="gate" name="International Gate 21" lat="N21 13.07238" lon="E105 47.78337" heading="198"  radius="44" airlineCodes="" />
-    <Parking index="26" type="gate" name="International Gate 20" lat="N21 13.06000" lon="E105 47.82265" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="13" type="gate" name="International Gate 36" lat="N21 13.22142" lon="E105 47.27803" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="14" type="gate" name="International Gate 35" lat="N21 13.20922" lon="E105 47.31778" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="15" type="gate" name="International Gate 34" lat="N21 13.19768" lon="E105 47.35720" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="16" type="gate" name="International Gate 33" lat="N21 13.18573" lon="E105 47.39690" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="17" type="gate" name="International Gate 32" lat="N21 13.17998" lon="E105 47.45097" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="18" type="gate" name="International Gate 31" lat="N21 13.16793" lon="E105 47.49057" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="19" type="gate" name="International Gate 30" lat="N21 13.15640" lon="E105 47.53015" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="20" type="gate" name="International Gate 29" lat="N21 13.14518" lon="E105 47.56997" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="21" type="gate" name="International Gate 28" lat="N21 13.13308" lon="E105 47.60888" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="22" type="gate" name="International Gate 27" lat="N21 13.12180" lon="E105 47.64883" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="23" type="gate" name="International Gate 23" lat="N21 13.09878" lon="E105 47.70233" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="24" type="gate" name="International Gate 22" lat="N21 13.08722" lon="E105 47.74198" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="25" type="gate" name="International Gate 21" lat="N21 13.07588" lon="E105 47.78102" heading="198"  radius="44" airlineCodes="" />
+    <Parking index="26" type="gate" name="International Gate 20" lat="N21 13.06350" lon="E105 47.82252" heading="198"  radius="44" airlineCodes="" />
   </parkingList>     
 </groundnet>         
+

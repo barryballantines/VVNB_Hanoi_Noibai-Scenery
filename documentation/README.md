@@ -54,4 +54,4 @@ An Airbus 320 parking at the International Terminal.
 [vvnb-intl-checkin]: ./vvnb-international-checkin-building.png
 [vvnb-intl-entrance]: ./vvnb-international-terminal-entrance.png
 [vvnb-intl-bridges]: ./vvnb-international-terminal-bridges.png
-[vvnb-intl-jetways]: ./vvnb-international-terminal-jetways-a320.png
+[vvnb-intl-jetways]: ./vvnb-international-terminal-jetways-b777.png
